@@ -1,0 +1,107 @@
+body{
+  background: linear-gradient(#530060, #E40A89);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+.logo-1{
+  width: 50%;
+}
+.title-lyft{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#main-fund{
+  background-image: url(../../assets/img/car.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+
+}
+.logo-2{
+  width: 30%;
+  margin-top: 0.5em;
+  margin-left: 8em;
+}
+.life{
+  width: 90%;
+  margin-left: 1em;
+  margin-top: 10em;
+}
+.btn.btn-default{
+  margin-top: 13em;
+  padding: 1%;
+  width: 60%;
+  height: 3.5em;
+}
+.btn-1{
+  margin-left: 6em;
+  background:transparent;
+  color: white;
+  font-weight: bold;
+
+}
+.btn-2{
+  margin-right: 0.1em;
+  background:transparent;
+  color: white;
+  font-weight: bold;
+}
+.fa-arrow-circle-o-left{
+  margin-top: 1em;
+  margin-left: 1em;
+  display: inline-block;
+}
+.text-sing{
+  font-size: 2em;
+  margin-left: 2em;
+  margin-top: 1em;
+  display: inline-block;
+
+}
+.input2{
+  margin-left: 3em;
+  text-decoration: none;
+  border: none;
+  width: 15%;
+  padding: 0;
+  margin: 0;
+
+}
+.input2{
+  border: none;
+}
+.btn-3{
+  background-color: #EA0B8C;
+  width: 15em;
+  margin-top: 2em;
+}
+.btn-4{
+  background-color: #EA0B8C;
+  width: 15em;
+  margin-top: 2em;
+}
+.btn-5{
+  background-color: #EA0B8C;
+  width: 15em;
+  margin-top: 2em;
+}
+.input-group{
+  margin-top: 1em;
+}
+.text-veryfy{
+  font-size: 2em;
+  margin-top: 1em;
+  display: inline-block;
+}
+.check{
+  display: inline-block;
+  margin-top: 1em;
+}
+.text-service{
+  display: inline-block;
+  margin-top: 1em;
+}
